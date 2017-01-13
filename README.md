@@ -1,4 +1,4 @@
-5# DGM-1600O
+DGM-1600O
 Orem Utah, 12:55 pm
 32 F Snow, Humidity 95%
 
@@ -31,3 +31,6 @@ Orem Utah, 12:55 pm
 
 11:30 pm 
 31 F Light Snow/Fog, Humidity 97%
+
+12:00 am 
+31 F Light Fog, Humidity 97%
