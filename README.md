@@ -55,7 +55,7 @@ Orem Utah, 12:55 pm
 30°F Foggy Humidity 100%
 
 8:45 am
-30°F Foggyh, Humidity 100%
+30°F Foggy, Humidity 100%
 
 9:12 am 
 30°F Foggy, Humidity 100%
@@ -92,3 +92,6 @@ Orem Utah, 12:55 pm
 
 5:05 pm
 34 F Rain, Humidity 86%
+
+5:45 pm
+34°F Cloudy, Humidity 86%
